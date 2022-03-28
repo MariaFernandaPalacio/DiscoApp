@@ -1,4 +1,4 @@
 # DiscoApp
 Desarrollo de la aplicación DiscoApp
 
-(https://github.com/MariaFernandaPalacio/DiscoApp/blob/main/cronogramas.png)
+(https://raw.github.com/MariaFernandaPalacio/DiscoApp/blob/main/cronogramas.png)
